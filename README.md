@@ -1,6 +1,8 @@
 # zachet
 Промежуточная аттестация
 
+ER в .pdf в папке ER
+
 git clone git@github.com:LucyMurrr/zachet.git
 
     cd zachet
